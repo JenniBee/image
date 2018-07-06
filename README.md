@@ -1,2 +1,2 @@
 # image
-Internet Media Archive Graphic Exchange
+Internet Media Archive Group Exchange
